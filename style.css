@@ -1,0 +1,8 @@
+.card {
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20201019/pngtree-merry-christmas-and-happy-new-year-wallpaper-merry-christmas-and-happy-image_421577.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    box-sizing: border-box;
+}
